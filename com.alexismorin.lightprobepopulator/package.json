@@ -1,0 +1,15 @@
+{
+  "name": "com.alexismorin.lightprobepopulator",
+  "displayName": "Light Probe Populator",
+  "version": "1.0.0",
+  "unity": "2018.2",
+  "description": "Filter through the scene and automatically generate Light Probes at the touch of a button.",
+  "documentationUrl": "https://github.com/TayouVR/Light-Probe-Populator/blob/master/README.md",
+  "licensesUrl": "https://github.com/TayouVR/Light-Probe-Populator/blob/master/LICENSE",
+  "keywords": [
+    "light",
+    "unity"
+  ],
+  "category": "Open-Source",
+  "type": "tool"
+}
