@@ -15,7 +15,7 @@ If you're more familiar with Unreal Engine, this package is roughly what the Lig
 ![packman](images/packman.png)
 
 ### Install process
-This is a plugin that makes use of Unity's new *Package Manager* feature. Just drop the *com.alexismorin.lightprobepopulator* folder into your *packages* folder (found at the same level as your Assets folder) and it should work out-of-the-box. If you're using an older version of Unity, navigate inside the *com.alexismorin.lightprobepopulator* folder and then just drag the *Editor* folder you find there anywhere in your project hierarchy.
+This is a plugin that makes use of Unity's new *Package Manager* feature. Just put *https://github.com/TayouVR/Light-Probe-Populator.git?path=com.alexismorin.lightprobepopulator* into the Git URL option in the Unity Package Manager.
 
 ![footer](images/options.png)
 
